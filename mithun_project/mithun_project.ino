@@ -1,5 +1,5 @@
 #include <Keyboard.h>
-
+// c++ code
 void setup() {
   Keyboard.begin();
   pinMode (10, INPUT_PULLUP);
