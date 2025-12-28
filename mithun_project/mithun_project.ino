@@ -19,35 +19,35 @@ void loop() {
 
   if(c > 100){
     Keyboard.print("q");
-    delay(10);
+    delay(20);
   }
   if(d > 100){
     Keyboard.print("e");
-    delay(10);
+    delay(20);
   }
   if(f > 100){
     Keyboard.print("w");
-    delay(10);
+    delay(20);
   }
   if(e > 100){
     Keyboard.print("r");
-    delay(10);
+    delay(20);
   }
   if(g > 100){
     Keyboard.print("s");
-    delay(10);
+    delay(20);
   }
   if(h > 100){
     Keyboard.print("d");
-    delay(10);
+    delay(20);
   }
   if(i > 100){
     Keyboard.print("u");
-    delay(10);
+    delay(20);
   }
   if(j > 100){
     Keyboard.print("x");
-    delay(10);
+    delay(20);
   }
 
 
